@@ -1,4 +1,4 @@
-JS First station project TUMO Labs
+First station project TUMO Labs
 
 ### **Overview**
 The **Word Counter** is a simple web application that analyzes text input from the user. It counts:
